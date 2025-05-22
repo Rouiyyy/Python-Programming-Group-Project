@@ -9,3 +9,5 @@ The main objectives are to:
 Output:
 An interactive web-based map that visually represents house prices across King County. Each house is shown as a colored, semi-transparent circle: Larger circles represent more expensive homes. Brighter colors correspond to higher price quantiles. Tooltips display key home information when the user hovers over a marker.
 
+[Documentation] (https://github.com/Rouiyyy/Python-Programming-Group-Project/blob/main/Housing%20Price%20Heat%20Map%20Python%20Project%20Documentation.docx)
+[Dataset] (
